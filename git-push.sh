@@ -4,6 +4,7 @@
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-if [ -d ../gits/marka-md.git ]; then
+D="marka-md"
+if [ -d ../gits/$D.git ]; then
     git push on master
 fi

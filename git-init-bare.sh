@@ -4,4 +4,10 @@
 S="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $S # necessary
 
-git init --bare ../gits/marka-md.git
+D="marka-md"
+
+if [ ! -d ../gits/$D.git ]; then
+    git init --bare ../gits/$D.git
+else
+    echo $D.git" already created"
+fi
