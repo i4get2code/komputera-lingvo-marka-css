@@ -194,7 +194,7 @@ somewhat curated list of useful links for css. inspired by awesome lists, sadly,
 
 * [animation on hover](http://stackoverflow.com/questions/17847049/css3-custom-animation-triggering-after-hover) - css3 custom animation triggering after hover stack overflow
 
-* [](http://www.echoecho.com/htmllinks08.htm) - links link within a page html tutorial
+* [links](http://www.echoecho.com/htmllinks08.htm) - link within a page html tutorial
 
 * [offsetting anchor](http://stackoverflow.com/questions/10732690/offsetting-an-html-anchor-to-adjust-for-fixed-header) - javascript offsetting an html anchor to adjust for fixed header stack overflow
 
